@@ -1,0 +1,11 @@
+{
+  "name": "cursor-open",
+  "version": "0.2.0",
+  "description": "Open Cursor editor from terminal, like code .",
+  "bin": {
+    "cursor": "index.js"
+  },
+  "type": "module",
+  "author": "Huy Cao",
+  "license": "MIT"
+}
