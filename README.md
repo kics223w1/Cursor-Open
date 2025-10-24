@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/cursor-open?color=cb0000&logo=npm)](https://www.npmjs.com/package/cursor-open)
+
 Open [Cursor](https://cursor.com/home) editor from your terminal, just like `code .` for VS Code.
 
 ## Installation
