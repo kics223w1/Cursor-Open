@@ -1,6 +1,6 @@
 {
   "name": "cursor-open",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "description": "Open Cursor editor from terminal, like code .",
   "bin": {
     "cursor": "index.js"
