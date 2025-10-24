@@ -1,5 +1,3 @@
-# cursor-open
-
 Open [Cursor](https://cursor.com/home) editor from your terminal, just like `code .` for VS Code.
 
 ## Installation
@@ -20,11 +18,6 @@ Open a specific directory:
 cursor /path/to/project
 ```
 
-## Requirements
-
-- [Cursor](https://cursor.com/home) must be installed on your system
-- Works on macOS, Windows, and Linux
-
 ## License
 
-MIT# Cursor-Open
+MIT
